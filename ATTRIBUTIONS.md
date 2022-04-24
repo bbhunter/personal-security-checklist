@@ -440,7 +440,7 @@ Thanks goes to these wonderful people
         <a href="https://github.com/theblackmallard">
             <img src="https://avatars.githubusercontent.com/u/42389961?v=4" width="80;" alt="theblackmallard"/>
             <br />
-            <sub><b>theblackmallard</b></sub>
+            <sub><b>Theblackmallard</b></sub>
         </a>
     </td></tr>
 <tr>
